@@ -1,0 +1,26 @@
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font: normal 1rem/1.15 "Gill Sans", "Gill Sans MT", sans-serif;
+}
+
+img {
+  width: 100%;
+  object-fit: cover;
+}
