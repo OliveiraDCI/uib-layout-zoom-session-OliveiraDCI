@@ -130,10 +130,10 @@ img {
 }
 
 .screen {
-  outline: 2px solid tomato;
   position: relative;
   width: 100%;
   margin: 0 auto;
+  border-radius: 15px;
 
   background-repeat: no-repeat;
   background-size: auto;
